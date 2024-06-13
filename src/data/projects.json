@@ -1,0 +1,11 @@
+[
+    {
+      "title": "YouTube Clone",
+      "imageSrc": "projects/project.png",
+      "description": "This YouTube clone help to improve my skills. Where i understand the concept of coponent.  ",
+      "skills": ["React", "Css", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+
+]    
